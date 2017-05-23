@@ -52,6 +52,7 @@ Runner Ups to consider now (will be reduced to 5 soon)
 * One Flew Over the Cuckoo's Nest (1975)
 * Few Good Men (1992)
 * Casablanca (1942)
-* Philadelphia
-* L.A. Confidential
-* Lawrence of Arabia
+* Philadelphia (1993)
+* L.A. Confidential (1997)
+* Lawrence of Arabia (1962)
+* Ben Hur (1952)
