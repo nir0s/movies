@@ -52,7 +52,7 @@ So, without further ado - the best movies ever made:
 * [Shawshank Redemption (1994)](http://www.imdb.com/title/tt0111161/)
 * [Forrest Gump (1994)](http://www.imdb.com/title/tt0109830/)
 * [Fargo (1996)](http://www.imdb.com/title/tt0116282/)
-* [Green Mile (1999)](http://www.imdb.com/title/tt0120689/)
+* [Requiem for a Dream (2000)](http://www.imdb.com/title/tt0180093/)
 * [American Beauty (1999)](http://www.imdb.com/title/tt0169547/)
 * [Gladiator (2000)](http://www.imdb.com/title/tt0172495/)
 * [Mystic River (2003)](http://www.imdb.com/title/tt0327056/)
