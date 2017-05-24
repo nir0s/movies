@@ -40,7 +40,7 @@ So, without further ado - the best movies ever made:
 * [Apocalypse Now (1979)](http://www.imdb.com/title/tt0078788/)
 * [Elephant Man (1980)](http://www.imdb.com/title/tt0080678/)
 * [Rain Man (1988)](http://www.imdb.com/title/tt0095953/)
-* [The Last of the Mohicans (1992)](http://www.imdb.com/title/tt0104691/)
+* [The Act of Killing (1992)](http://www.imdb.com/title/tt2375605/)
 * [Shawshank Redemption (1994)](http://www.imdb.com/title/tt0111161/)
 * [Forrest Gump (1994)](http://www.imdb.com/title/tt0109830/)
 * [Fargo (1996)](http://www.imdb.com/title/tt0116282/)
