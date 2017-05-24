@@ -16,6 +16,8 @@ The flow for changing the list is as follows:
 * The list will be reviewed by multiple people.
 * Once agreed by most, the PR will be merged.
 
+A PR message must look like: "Replace X with Y". The body should explain why.
+
 The first rule of a movie in this list is: 
 
 When asked, (almost) no one can say "It's not my style" or "It's a bad movie" or "I don't like that genre". We will, of course, try to do our best to accomodate for this rule.
@@ -24,6 +26,10 @@ For example, one might say: Why did you put "12 Angry Men" in the list but not "
 The second rule of a movie in this list is:
 
 Movies from the same series (e.g. Godfather I and II) will not appear to remove any bias from previous films of the same series.
+
+NOTE: The criteria for submitting and accepting a movie are NOT SET IN STONE. If you think we should change them, let us know by opening an issue. Remember, this is an ITERATIVE PROCESS.
+
+Also, to remove any doubt, we will open additional lists for different genres so accomodate for movies that should "obviously" be in the list but are either too niche or are too "taste-oriented" to be in the first list.
 
 ### The List
 
